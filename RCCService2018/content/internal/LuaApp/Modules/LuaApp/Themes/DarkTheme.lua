@@ -1,4 +1,0 @@
-local theme = {
-}
-
-return theme
